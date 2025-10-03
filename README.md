@@ -1,5 +1,5 @@
 
-# hello-java-maven Jenkins Pipeline Project
+# Maven Jenkins Pipeline Project
 
 This project demonstrates how to build a simple Java Maven application using Jenkins Pipeline.
 
