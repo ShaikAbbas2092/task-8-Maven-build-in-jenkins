@@ -20,20 +20,17 @@ The pipeline performs:
 3. Maven test
 4. Post-build status notifications
 
-## Usage Instructions
-
-### Clone repository
-```
-git clone https://github.com/your-username/hello-java-maven.git
-cd hello-java-maven
-```
+## usage Instructions
 
 ### Configure Jenkins
-- In Jenkins, ensure Maven and JDK tool installations exist and note their names.
+- In Jenkins, ensure Maventool installations exist and note their names.
 - Create a new Pipeline job in Jenkins.
 - Under Pipeline section, select "Pipeline script".
 - write declarative pipeline as shown below.
 -
+
+
+
 '''
   pipeline {
     agent any
